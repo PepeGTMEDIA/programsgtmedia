@@ -129,8 +129,6 @@ http://127.0.0.1:6878/ace/getstream?id=b779e6056975e3682a804d47cbd5cc806217f64d
 http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#vamos_720
 http://127.0.0.1:6878/ace/getstream?id=b888712c494a93739d4f275806d7e4feb4c6d2f8
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#VAMOS
-http://127.0.0.1:6878/ace/getstream?id=01933dd05dd583ab7bb0b56dcd8b225ca20d5df6
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EUROSPORT 1
 http://127.0.0.1:6878/ace/getstream?id=f8a77a75bf7572e360556339794d3d13fca8caa9
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EUROSPORT2
